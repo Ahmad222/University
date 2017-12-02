@@ -1,0 +1,12 @@
+c:\users\ahmad\documents\visual studio 2012\Projects\client\client\bin\Debug\client.exe.config
+c:\users\ahmad\documents\visual studio 2012\Projects\client\client\bin\Debug\client.exe
+c:\users\ahmad\documents\visual studio 2012\Projects\client\client\bin\Debug\client.pdb
+c:\users\ahmad\documents\visual studio 2012\Projects\client\client\obj\Debug\client.exe
+c:\users\ahmad\documents\visual studio 2012\Projects\client\client\obj\Debug\client.pdb
+C:\Users\Ahmad\Documents\Visual Studio 2012\Projects\client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+C:\Users\Ahmad\Desktop\Ahmad_Naser-eddin\FTP\client\client\bin\Debug\client.exe.config
+C:\Users\Ahmad\Desktop\Ahmad_Naser-eddin\FTP\client\client\bin\Debug\client.exe
+C:\Users\Ahmad\Desktop\Ahmad_Naser-eddin\FTP\client\client\bin\Debug\client.pdb
+C:\Users\Ahmad\Desktop\Ahmad_Naser-eddin\FTP\client\client\obj\Debug\client.exe
+C:\Users\Ahmad\Desktop\Ahmad_Naser-eddin\FTP\client\client\obj\Debug\client.pdb
+C:\Users\Ahmad\Desktop\Ahmad_Naser-eddin\FTP\client\client\obj\Debug\client.csprojResolveAssemblyReference.cache

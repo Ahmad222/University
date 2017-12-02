@@ -1,0 +1,10 @@
+The programing language used is c#
+To compile the code from the command prompt:
+“csc /out:My.exe Program.cs”
+
+
+
+The home directory of the server is the drive with letter “D:\\”
+The home directory of the client is the drive with letter “B:\\”
+
+ 
